@@ -1,0 +1,6 @@
+Quiz-1::	Mathematics
+Quiz-2::	Physics
+Quiz-3::	Chemistry
+Quiz-4::	Biology
+Quiz-5::	English
+Quiz-6::	Computer Science

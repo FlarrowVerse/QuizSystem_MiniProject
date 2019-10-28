@@ -1,0 +1,25 @@
+import java.io.*;
+import java.util.*;
+
+class Question {
+	private String statement;
+	private String[] ops;
+	private char ans;
+
+	public Question(String st, String ops, char a) {
+		statement = st;
+		ops = ops.split(",");
+	}
+}
+
+public class QuizMaster {
+
+	public static int play() {
+
+		ArrayList<Question> quiz = getQuestions();
+
+		
+		
+	}
+	
+}

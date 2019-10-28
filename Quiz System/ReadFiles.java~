@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+
+public class ReadFiles {
+
+	public String[] getQuizNames(String file_base, String topics) {
+		String path = file_base+"\\"+topics;
+		
+		File file = new File(path);
+		
+		file.close();
+	}
+
+	
+}

@@ -1,0 +1,6 @@
+QUIZ SYSTEM:
+
+1. Have questions in a file
+2. Read questions from file, from specified format
+3. Read quiz names from file
+4. Login page: Admin/Student (OPTIONAL)
